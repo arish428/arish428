@@ -52,6 +52,10 @@ https://thedssr.com/index.php/2/article/view/613
 2 ANALYSIS OF AIRFOIL USING WIND TUNNEL THROUGH IMAGE PROCESSING
 https://sesjournal.org/index.php/1/article/view/380
 
+🎓 Volunteering:
+
+Served as a Teaching Assistant and volunteered in various university events, including SPEC, sports competitions, and gala activities.
+
 ✔ Hobbies: 
 
 Reading Tech Books, Watching documentaries, Learning from online and onsite courses, Exploring the World, Interaction with people of different cultures and traditions
