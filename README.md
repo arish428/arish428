@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **arish428/arish428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ LinkedIn **https://www.linkedin.com/in/arishkhan103/**
 Email **ARISHK103@GMAIL.COM**
 - ✔ Pronouns: **He/Him**
 - ✔ Hobbies: **Reading Tech Books, Watching documentaries, Learning from online and onsite courses
--->**
+
