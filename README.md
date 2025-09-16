@@ -30,6 +30,7 @@ Master of Science (MSc) in **Data Engineering & Information Management**
 
 © Courses in the field of:
 
+104 courses are completed
 Data Engineering
 Data Science
 Artificial Intelligence and Machine Learning
@@ -59,3 +60,4 @@ Reading Tech Books, Watching documentaries, Learning from online and onsite cour
 
 My professor selected me to represent the country at the national and international TeknoFest Festival held at the Expo Center in Pakistan, where I evaluated STEM projects, including Electronics, RC Planes, Computer Vision, Data Science, Artificial Intelligence, Machine Learning, and Augmented Reality.
 
+Invited by the Vice Chancellor of Muhammad Ali Jinnah University to deliver a talk on Data Science, Data Engineering, and Cloud Computing, highlighting their real-world applications and adaptability as future career paths.
