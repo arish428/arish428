@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**arish428/arish428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am DataAIGeek, am always passionate about learning new tools and technologies, 
+and am ready to apply them to real-world applications. I worked as a teacher and a true learner.
 
 🔭 I’m currently working on 
 **Data Engineering, Data Science, Machine Learning, Deep Learning, and Data Analytics**
