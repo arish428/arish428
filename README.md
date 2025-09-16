@@ -36,6 +36,7 @@ Data Engineering, Data Analyst, Data Analytics, Data & AI Fundamentals
 The rest of the others are in Data Engineering, Data Science, Analytics, and AI
 
 🎓 Publications:
+
 1 AI-Driven Methodologies For Real-Time Data Processing In IOT Networks
 https://thedssr.com/index.php/2/article/view/613
 
