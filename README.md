@@ -18,6 +18,7 @@ Role of Data Science & Analytics on Climate Change and Renewable Energy
 📫 Contact On: 
 
 LinkedIn **https://www.linkedin.com/in/arishkhan103/** Email **ARISHK103@GMAIL.COM**
+Github **https://github.com/arish428/arish428**
 
 ✔ Pronouns: 
 
@@ -59,7 +60,7 @@ Served as a Teaching Assistant and volunteered in various university events, inc
 
 ✔ Hobbies: 
 
-Reading Tech Books, Watching documentaries, Learning from online and onsite courses, Exploring the World, Interaction with people of different cultures and traditions
+Reading Tech Books, watching documentaries, Learning from online and onsite courses, Exploring the World, Interaction with people of different cultures and traditions
 
 ✨ Achievements:
 
