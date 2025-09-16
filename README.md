@@ -19,5 +19,5 @@ LinkedIn **https://www.linkedin.com/in/arishkhan103/** Email **ARISHK103@GMAIL.C
 **He/Him**
 
 ✔ Hobbies: 
-****Reading Tech Books, Watching documentaries, Learning from online and onsite courses, Exploring World, Interaction with people of different culture and traditions**************
+****Reading Tech Books, Watching documentaries, Learning from online and onsite courses, Exploring World, Interaction with people of different culture and traditions****
 
