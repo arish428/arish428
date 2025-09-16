@@ -18,6 +18,30 @@ LinkedIn **https://www.linkedin.com/in/arishkhan103/** Email **ARISHK103@GMAIL.C
 ✔ Pronouns: 
 He/Him
 
+🎓 Academic/Education:
+Bachelor of Engineering (BE) in **Avionics Engineering**
+Master of Science (MSc) in **Data Engineering & Information Management**
+
+© Courses in the field of:
+Data Engineering
+Data Science
+Artificial Intelligence and Machine Learning
+Electronics, Signal & image processing, 
+Communication systems
+Data Analytics, LLMs, Agentic AI
+
+🎓 Certifications:
+passed my 5 Microsoft exams and obtained 5 certifications, 1 Google certification
+Data Engineering, Data Analyst, Data Analytics, Data & AI Fundamentals
+The rest of the others are in Data Engineering, Data Science, Analytics, and AI
+
+🎓 Publications:
+1 AI-Driven Methodologies For Real-Time Data Processing In IOT Networks
+https://thedssr.com/index.php/2/article/view/613
+
+2 ANALYSIS OF AIRFOIL USING WIND TUNNEL THROUGH IMAGE PROCESSING
+https://sesjournal.org/index.php/1/article/view/380
+
 ✔ Hobbies: 
 Reading Tech Books, Watching documentaries, Learning from online and onsite courses, Exploring the World, Interaction with people of different cultures and traditions
 
