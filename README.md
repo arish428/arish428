@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am DataAIGeek, a teacher 👩🏿‍🏫 and a student 👨🏿‍🎓, am always passionate about learning new tools and technologies, 
-and am ready to apply them to real-world applications.
+and am ready to apply them to real-world applications. I have always decided to dedicate my time to transferring my knowledge to the people through online and onsite platforms.
 
 🔭 I’m currently working on 
 Data Engineering, Data Science, Machine Learning, Deep Learning, and Data Analytics
