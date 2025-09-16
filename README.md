@@ -68,4 +68,15 @@ My professor selected me to represent the country at the national and internatio
 
 Honored with a shield after being invited by the Vice Chancellor of Muhammad Ali Jinnah University to deliver a talk on Data Science, Data Engineering, and Cloud Computing, emphasizing their real-world applications and adaptability as future career paths.
 
+📜 Professional Journey:
+
+Data Analyst
+
+Senior BI Developer
+
+Data Engineer
+
+Over the last three years of experience, I have worked as a Data Analyst and Senior BI Developer, and I am currently serving as a Data Engineer and Validation Engineer. I have had the privilege of collaborating with highly experienced teams at a UK-based IT services company and a US-based fintech firm. In these roles, I contributed to business innovation by implementing AI-driven solutions and automation workflows that reduced operational costs, enhanced efficiency, and boosted overall business productivity.
+
+Awarded the title of Hardworking Employee of the Year for successfully achieving the target of transforming manual processes into automation workflows.
 
